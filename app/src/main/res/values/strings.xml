@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SunflowerBMITracker</string>
+    <string name="female_image_description">Female Image</string>
+    <string name="male_image_description">Male Image</string>
+</resources>
